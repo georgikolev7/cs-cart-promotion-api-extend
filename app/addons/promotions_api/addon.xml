@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<addon scheme='3.0' edition_type="ROOT,ULT:VENDOR">
+    <id>promotions_api</id>
+    <version>1.0.0</version>
+    <name>Promotions API</name>
+    <description>Extend the default API for promotion rules</description>
+    <priority>100500</priority>
+    <status>active</status>
+	<authors>
+		<author>
+			<name>Георги Колев</name>
+			<email>georgi.kolev@imode.si</email>
+			<url>https://www.imode.si</url>
+		</author>
+	</authors>
+    <supplier>iMode d.o.o</supplier>
+    <supplier_link>https://www.imode.si/</supplier_link>
+</addon>
